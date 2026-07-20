@@ -10,7 +10,7 @@ Navegador Web como (Chrome, Firefox, Opera , Brave ,...)
 
 Instruciones para su ejecución:
 
-Descargar desde GitHub :  https://github.com/aandyop/Actividad_4.1/tree/main
+Descargar desde GitHub :  https://github.com/aandyop/Actividad_4.1.git
 
 Abrir el VSC y abrir la carpeta 
 
